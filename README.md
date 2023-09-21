@@ -1,12 +1,13 @@
 # README.md
-travail de groupe 1
+# travail de groupe 1
 # Let's Begin!
+## ✨ Qui participe à ce projet?
+* Julie
+* Zineb
+* Zala
+* Jessy
+* Cédric
 
-
-test Céd
-=======
-- - -
-- - - 
 
 * an unordered list
 
