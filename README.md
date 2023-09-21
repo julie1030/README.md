@@ -8,7 +8,21 @@ test Céd
 - - -
 - - - 
 
+* an unordered list
 
+* an ordered list
+
+* a list within a list
+
+* two or three level of titles and subtitles
+
+* some links
+
+* one static image
+
+* one animated image
+
+* a bit of code (example)
 
 
 
