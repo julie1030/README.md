@@ -1,13 +1,6 @@
 # README.md
 travail de groupe 1
-# Let's Begin!
-
-
-test Céd
-=======
-- - -
-- - - 
-
+Sommaire :
 * an unordered list
 
 * an ordered list
@@ -35,6 +28,7 @@ test Céd
 
 
 
+# Let's Begin!
 
 
 
@@ -60,6 +54,24 @@ test Céd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Merci d'avoir lu !**
+![Alt Text](https://media.giphy.com/media/3ohjUTvwPpXtvCt1f2/giphy.gif)
+=======
 
 
 
@@ -68,4 +80,5 @@ test Céd
 
 ## **Merci d'avoir lu!**
 ![Alt text](https://github.com/julie1030/README.md/blob/29d77fd56cdb3530d82cbd43a611a4cc9c0ff969/giphy%20(1).gif)
+
 
