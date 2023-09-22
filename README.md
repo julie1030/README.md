@@ -1,5 +1,6 @@
 
 # README.md
+
 # travail de groupe 1
 # Let's Begin!
 ## ✨ Qui participe à ce projet?
@@ -9,8 +10,9 @@
 * **Zala**
 * **Jessy**
 * **Cédric**
----
 
+travail de groupe 1
+Sommaire :
 * an unordered list
 
 * an ordered list
@@ -26,14 +28,12 @@
 * one animated image
 
 * a bit of code (example)
----
 
 
 
 
 
-
-
+* test...
 
 
 
@@ -50,6 +50,7 @@
 ---
 
 
+# Let's Begin!
 
 
 
@@ -67,6 +68,7 @@
 
 
 
+jklm
 
 
 
@@ -74,6 +76,12 @@
 
 
 
+Some links :
+
+* [Github](https://github.com/)
+* [StackOverflow](https://StackOverflow.com/)
+* [ChatGPT](https://chat.openai.com/)
+* [MDN Web Docs](https://developer.mozilla.org/fr/)
 
 
 
@@ -81,7 +89,9 @@
 
 
 
-
-## **Merci d'avoir lu!**
+## **Thanks for reading!**
 ![Alt text](https://github.com/julie1030/README.md/blob/29d77fd56cdb3530d82cbd43a611a4cc9c0ff969/giphy%20(1).gif)
 
+
+
+coucou, moi c'est La Branche ! ;D
