@@ -6,11 +6,11 @@
 
 ### ✨ **Qui participe à ce projet?**
 
-* **Julie**
+* **[Julie](https://github.com/julie1030/julie "Présentation Julie")**
 * **Zineb**
 * **Zala**
 * **Jessy**
-* **Cédric**
+* **[Cédric](https://github.com/cebe0210/monreadme "Présentation Cédric")**
 ---  
 ## travail de groupe 1
 
