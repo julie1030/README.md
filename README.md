@@ -4,11 +4,11 @@
 # Let's Begin!
 ## ✨ Qui participe à ce projet?
 
-* Julie
-* Zineb
-* Zala
-* Jessy
-* Cédric
+* **Julie**
+* **Zineb**
+* **Zala**
+* **Jessy**
+* **Cédric**
 ---
 
 * an unordered list
@@ -26,6 +26,7 @@
 * one animated image
 
 * a bit of code (example)
+---
 
 
 
@@ -44,8 +45,9 @@
     const RS = (vi*(p*a)+vi).toFixed(2);//interet simple  
     const RC = (vi*(1+p)**a).toFixed(2); //rendement intéret conposé.  
 
-    console.log(RS);  
-    console.log(RC);  
+    console.log(RS); //resultat pour interet simple.  
+    console.log(RC); //resultat pour interet composé.  
+---
 
 
 
