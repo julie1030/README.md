@@ -56,7 +56,11 @@ jklm
 
 
 
+Some links :
 
+* [Github](https://github.com/)
+* [StackOverflow](https://StackOverflow.com/)
+* [ChatGPT](https://chat.openai.com/)
 
 
 
