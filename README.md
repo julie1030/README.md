@@ -9,7 +9,7 @@
 * **[Julie](https://github.com/julie1030/julie "Présentation Julie")**
 * **Zineb**
 * **Zala**
-* **Jessy**
+* **[Jessy](https://github.com/Onyx3O6/Travaux/blob/f5eb6e35100bf82c18398835821ceaed8e27f351/premier%20Markdown.md "Présentation Jessy")**
 * **[Cédric](https://github.com/cebe0210/monreadme "Présentation Cédric")**
 ---  
 ## travail de groupe 1
