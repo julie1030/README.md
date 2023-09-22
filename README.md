@@ -16,6 +16,8 @@ Sommaire :
 * one animated image
 
 * a bit of code (example)
+  
+* Et c'est tout
 
 
 
