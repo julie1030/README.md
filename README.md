@@ -1,3 +1,4 @@
+
 # README.md
 # travail de groupe 1
 # Let's Begin!
@@ -34,6 +35,17 @@
 
 
 
+
+## Code pour calculer les taux d'interets en JS :
+    let vi = 1000; //montant initial.  
+    let p = 0.1; //le taux d'interet. ici 0.1 = 10%  
+    let a = 2; // la periode ici 2 ans.  
+
+    const RS = (vi*(p*a)+vi).toFixed(2);//interet simple  
+    const RC = (vi*(1+p)**a).toFixed(2); //rendement intéret conposé.  
+
+    console.log(RS);  
+    console.log(RC);  
 
 
 
