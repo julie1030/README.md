@@ -79,10 +79,10 @@
 
 ### ✨ **Some links :**
 
-* [Github](https://github.com/)
-* [StackOverflow](https://StackOverflow.com/)
-* [ChatGPT](https://chat.openai.com/)
-* [MDN Web Docs](https://developer.mozilla.org/fr/)
+* [Github](https://github.com/ "Plateforme d'hébergement et de gestion de développement de logiciels")
+* [StackOverflow](https://StackOverflow.com/ "Aide & FAQ Developpement")
+* [ChatGPT](https://chat.openai.com/ "Itéligence artificiel Chatbot")
+* [MDN Web Docs](https://developer.mozilla.org/fr/ "dépôt de documentation et une ressource d'apprentissage pour les développeurs web")
 ---  
 
 
