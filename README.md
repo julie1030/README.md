@@ -32,7 +32,27 @@
 * a bit of code (example)
 ---  
 
+### ✨ **Programme de formation :**
 
+1. The-Field :  
+   1.1 Terminal: CLI, Git, Github.   
+   1.2 Pseudo Code : HTML/CSS.  
+   1.3 Pseudo Code : SEO, Accessibility, Responsiviness, files organization, SASS, IDE.  
+   1.4 Introduction to algorithm : Conditions, variables, array, loops.   
+2. The-Hill :  
+   2.1 Dynamic frontend and javascript :  
+   2.2 Backend applications and databases:     
+3. The-Mountain :  
+   3.1 Front end :   
+   3.2 Back end :
+   3.3 Java software developer :
+4. Tre Summer Pasture :
+   4.1 E-Marketer :  
+   4.2 SalesForce Developer :
+   4.3 Full Stack Developer :
+   4.4 Internship Specialization :
+---
+   
 
 
 
